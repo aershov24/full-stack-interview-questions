@@ -8,7 +8,7 @@
  * [Behavioral](#Behavioral)
  * [Bootstrap](#Bootstrap)
  * [CSS](#CSS)
- * [Code Problems](#Code Problems)
+ * [Code Problems](#CodeProblems)
  * [Data Structures](#Data Structures)
  * [Design Patterns](#Design Patterns)
  * [DevOps](#DevOps)
@@ -532,7 +532,7 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: What's the difference between a `relative`, `fixed`, `absolute` and `static`ally positioned element?
 Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=Code Problems>Code Problems</a>
+## [[â¬†]](#toc) <a name=CodeProblems>Code Problems</a>
 #### Q: Find Word Positions in Text
 #### Q: Throttle Function Implementation
 #### Q: Transform Word
