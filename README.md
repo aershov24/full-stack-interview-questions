@@ -9,33 +9,32 @@
  * [Bootstrap](#Bootstrap)
  * [CSS](#CSS)
  * [Code Problems](#CodeProblems)
- * [Data Structures](#Data Structures)
- * [Design Patterns](#Design Patterns)
+ * [Data Structures](#DataStructures)
+ * [Design Patterns](#DesignPatterns)
  * [DevOps](#DevOps)
  * [Git](#Git)
  * [Golang](#Golang)
  * [GraphQL](#GraphQL)
- * [HTML 5](#HTML 5)
+ * [HTML 5](#HTML5)
  * [Java](#Java)
  * [JavaScript](#JavaScript)
  * [Laravel](#Laravel)
  * [MongoDB](#MongoDB)
  * [Node.js](#Node.js)
- * [Performance Testing](#Performance Testing)
- * [Questions to Ask](#Questions to Ask)
- * [REST API](#REST API)
+ * [Performance Testing](#PerformanceTesting)
+ * [Questions to Ask](#QuestionstoAsk)
+ * [REST API](#RESTAPI)
  * [React](#React)
  * [Ruby](#Ruby)
  * [Sass](#Sass)
  * [Scrum](#Scrum)
- * [Software Architecture](#Software Architecture)
+ * [Software Architecture](#SoftwareArchitecture)
  * [TypeScript](#TypeScript)
- * [UX Design](#UX Design)
+ * [UX Design](#UXDesign)
  * [Vue.js](#Vue.js)
- * [Web Security](#Web Security)
+ * [Web Security](#WebSecurity)
  * [Webpack](#Webpack)
- 
-## [[â¬†]](#toc) <a name=ASP.NET>ASP.NET</a>
+## [[⬆]](#toc) <a name=ASP.NET>ASP.NET</a>
 #### Q: What is ASP.NET Core?
 #### Q: What is the difference between .NET Core and Mono?
 #### Q: Can ASP.NET Core work with the .NET framework?
@@ -58,9 +57,9 @@
 #### Q: What's the difference between .NET Core, .NET Framework, and Xamarin?
 #### Q: What's the difference between SDK and Runtime in .NET Core?
 #### Q: Explain two types of deployment for .NET Core applications
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=AWS>AWS</a>
+## [[⬆]](#toc) <a name=AWS>AWS</a>
 #### Q: What is AWS?
 #### Q: Does AWS has the option for vertical "auto" scaling of EC2 instance?
 #### Q: What is the connection between AMI and Instance?
@@ -105,9 +104,9 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: How can I download a file from EC2?
 #### Q: What is AWS WAF? What are the potential benefits of using WAF?
 #### Q: What is Amazon Kinesis?
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=Agile>Agile</a>
+## [[⬆]](#toc) <a name=Agile>Agile</a>
 #### Q: What are some methodologies used to implement Agile?
 #### Q: What is an Agile iteration?
 #### Q: What is Agile?
@@ -135,9 +134,9 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: Explain what is Spike and Zero sprint in Agile? What is the purpose of it?
 #### Q: In Agile mention what is the difference between the Incremental and Iterative development?
 #### Q: Explain what is Refactoring?
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=Angular>Angular</a>
+## [[⬆]](#toc) <a name=Angular>Angular</a>
 #### Q: What is Routing Guard in Angular?
 #### Q: What are the differences between AngularJS (angular 1.x) and Angular (Angular 2.x and beyond)?
 #### Q: What is a component? Why would you use it?
@@ -161,11 +160,11 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: How to bundle an Angular app for production?
 #### Q: What is the difference between BehaviorSubject vs Observable?
 #### Q: What is the difference between "@Component" and "@Directive" in Angular? 
-#### Q: Could I use jQuery withÂ Angular?
-#### Q: How to set headers for everyÂ request in Angular?
-#### Q: What is difference between "declarations", "providers" and "import" inÂ NgModule?
+#### Q: Could I use jQuery with Angular?
+#### Q: How to set headers for every request in Angular?
+#### Q: What is difference between "declarations", "providers" and "import" in NgModule?
 #### Q: What is the Angular equivalent to an AngularJS "$watch"?
-#### Q: How to detect a route change inÂ Angular?
+#### Q: How to detect a route change in Angular?
 #### Q: Is there no equivalent to `$scope.emit()` or `$scope.broadcast()` in Angular?
 #### Q: What is the need for SystemJS in Angular?
 #### Q: Name some differences between SystemJS vs WebPack?
@@ -207,9 +206,9 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: When does a lazy loaded module is loaded?
 #### Q: Why angular uses url segment?
 #### Q: When to use query parameters versus matrix parameters?
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=AngularJS>AngularJS</a>
+## [[⬆]](#toc) <a name=AngularJS>AngularJS</a>
 #### Q: Why to use AngularJS?
 #### Q:  What are the advantage of AngularJS?
 #### Q: Does AngularJS has dependency on jQuery?
@@ -217,7 +216,7 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: How to access jQLite?
 #### Q: What are the AngularJS features?
 #### Q: When dependent modules of a module are loaded?
-#### Q: What is Angularâ€™s prefixes $ and $$?
+#### Q: What is Angular’s prefixes $ and $$?
 #### Q: What are Filters in AngularJS?
 #### Q: What are Directives in AngularJS?
 #### Q: What is the role of ng-app, ng-init and ng-model directives?
@@ -243,7 +242,7 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: Explain what is linking function and type of linking function?
 #### Q: Explain what is directive and mention what are the different types of Directive?
 #### Q: What are the basic steps to unit test an AngularJS filter?
-#### Q: What should be the maximum number of concurrent â€œwatchesâ€?
+#### Q: What should be the maximum number of concurrent “watches”?
 #### Q: What are the basic steps to unit test an AngularJS filter?
 #### Q: How do you share data between controllers?
 #### Q: What is the difference between "ng-show"/"ng-hide" and "ng-if" directives?
@@ -271,10 +270,10 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: How would you implement application-wide exception handling in your Angular app?
 #### Q: How do you hide an HTML element via a button click in AngularJS?
 #### Q: How would you react on model changes to trigger some further action? 
-#### Q: How do you disable a button depending on a checkboxâ€™s state?
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+#### Q: How do you disable a button depending on a checkbox’s state?
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=Azure>Azure</a>
+## [[⬆]](#toc) <a name=Azure>Azure</a>
 #### Q: What are the benefits of severless applications?
 #### Q: What is serverless computing?
 #### Q: What is Azure Functions?
@@ -293,7 +292,7 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: What are special Azure Regions?
 #### Q:  What is the meaning of application partitions?
 #### Q: What are stateful and stateless microservices for Service Fabric?
-#### Q: What is the difference between â€œprice,â€ â€œsoftware price,â€ and â€œtotal priceâ€ in the cost structure for Virtual Machine offers in the Azure Marketplace?
+#### Q: What is the difference between “price,” “software price,” and “total price” in the cost structure for Virtual Machine offers in the Azure Marketplace?
 #### Q: How are Azure Marketplace subscriptions priced?
 #### Q: What is Azure Search?
 #### Q: How can you stop a VM using Power Shell?
@@ -310,7 +309,7 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: What are the differences between Subscription Administrator and Directory Administrator?
 #### Q: What is a VNet?
 #### Q: What is Azure Service Fabric?
-#### Q: How can I use applications with Azure AD that Iâ€™m using on-premises?
+#### Q: How can I use applications with Azure AD that I’m using on-premises?
 #### Q: Do scale sets work with Azure availability sets?
 #### Q: What are Network Security Groups?
 #### Q: What are Update Domains?
@@ -333,9 +332,9 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: What VPN types are supported by Azure?
 #### Q: Is Azure Table Storage Nosql?
 #### Q: What do you know about Azure WebJobs?
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=Behavioral>Behavioral</a>
+## [[⬆]](#toc) <a name=Behavioral>Behavioral</a>
 #### Q:  What can you actually do for us?
 #### Q:  In one word, describe yourself.
 #### Q: What is broken around you?
@@ -397,10 +396,10 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: What is the hardest technical problem you have run into?
 #### Q: How do you stay up to date with the latest technologies?
 #### Q: What would your previous boss say your biggest strength was?
-#### Q: Why do you think youâ€™re a good fit for this company?
-#### Q: Tell me about your last project - what worked and what didnâ€™t?
+#### Q: Why do you think you’re a good fit for this company?
+#### Q: Tell me about your last project - what worked and what didn’t?
 #### Q: What are some of the new ideas you would implement in this position?
-#### Q: Whatâ€™s the best advice youâ€™ve recently received?
+#### Q: What’s the best advice you’ve recently received?
 #### Q:  Can you tell me what part of your resume you are most proud of?
 #### Q: What are your personal goals?
 #### Q: What are your hobbies?
@@ -416,7 +415,7 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: Do prefer to work at a single company for a long time or would you rather take a job that suits you at the time?
 #### Q: Are you comfortable assuming responsibilities outside your job description?
 #### Q: How large was the last team that you worked on?
-#### Q: Whatâ€™s the most difficult part of being a member of a team for you?
+#### Q: What’s the most difficult part of being a member of a team for you?
 #### Q: What risks do you feel you should never take?
 #### Q: How do you respond to constructive criticism?
 #### Q: If you were given $1 million dollars every year for the rest of your life, what would you do?
@@ -424,9 +423,9 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: How do you spend your time outside work?
 #### Q: Would you rather be good at a lot of things or an expert at one thing?
 #### Q: What is your superpower?
-#### Q: What is the craziest thing youâ€™ve ever done?
+#### Q: What is the craziest thing you’ve ever done?
 #### Q: Why do you want to come work at a startup, as opposed to an established company?
-#### Q: Whatâ€™s are your favorite five apps?
+#### Q: What’s are your favorite five apps?
 #### Q: Do you prefer to work in a team or individually?
 #### Q: If you were to open your own business in the future, what kind of business will you open and why?
 #### Q: Have you worked in a distributed team before? What challenges did you face?
@@ -448,9 +447,9 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: Would you prefer working on Green Field or Brown Field projects? Why?
 #### Q: What does it mean to be a "Professional Developer"?
 #### Q: Is developing software an art, a craftsmanship or an engineering endeavour? Your opinion.
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=Bootstrap>Bootstrap</a>
+## [[⬆]](#toc) <a name=Bootstrap>Bootstrap</a>
 #### Q: What is screen reader in bootstrap documentation?
 #### Q: What is the class sr-only used for? Is it important or can I remove it?
 #### Q: Explain what is Bootstrap?
@@ -487,13 +486,13 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: What will be the default Bootstrap look of the alert created with this following code?
 #### Q: Explain what the following code does, and where they are useful
 #### Q: What will be the output of the following HTML code
-#### Q: What global styles are applied as a part of Bootstrapâ€™s default typography?
+#### Q: What global styles are applied as a part of Bootstrap’s default typography?
 #### Q: How many different media queries are used by the Bootstrap grid system by default?
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=CSS>CSS</a>
+## [[⬆]](#toc) <a name=CSS>CSS</a>
 #### Q: Explain the usage of "table-layout" property
-#### Q: Explain the CSS â€œbox modelâ€ and the layout components that it consists of
+#### Q: Explain the CSS “box model” and the layout components that it consists of
 #### Q: What is CSS selectors? Name some.
 #### Q: Write down a selector that will match any links end in .zip, .ZIP, .Zip etc...
 #### Q: How to create a zebra striped table with CSS?
@@ -507,7 +506,7 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: Explain the basic rules of CSS Specificity
 #### Q: What the code fragment has the greater CSS specificity? 
 #### Q: What is the difference between classes and IDs in CSS?
-#### Q: Whatâ€™s the difference between â€œresettingâ€ and â€œnormalizingâ€ CSS? Which would you choose, and why?
+#### Q: What’s the difference between “resetting” and “normalizing” CSS? Which would you choose, and why?
 #### Q: Describe floats and how they work
 #### Q: Describe z-index and how a stacking context is formed
 #### Q: Explain CSS sprites, and how you would implement them on a page or site.
@@ -530,9 +529,9 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: Have you played around with the new CSS Flexbox or Grid specs?
 #### Q: What existing CSS frameworks have you used locally, or in production? How would you change/improve them?
 #### Q: What's the difference between a `relative`, `fixed`, `absolute` and `static`ally positioned element?
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=CodeProblems>Code Problems</a>
+## [[⬆]](#toc) <a name=CodeProblems>Code Problems</a>
 #### Q: Find Word Positions in Text
 #### Q: Throttle Function Implementation
 #### Q: Transform Word
@@ -559,9 +558,9 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: Insert an interval into a list of sorted disjoint intervals
 #### Q: Find all string combinations consisting only of 0, 1 and ?
 #### Q: Quickly calculate the cube root of 6 digit numbers
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=Data Structures>Data Structures</a>
+## [[⬆]](#toc) <a name=DataStructures>Data Structures</a>
 #### Q: What is data-structure?
 #### Q: What is algorithm?
 #### Q: Why we need to do algorithm analysis?
@@ -579,9 +578,9 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: What is Bucket Sort?
 #### Q: What is an average case complexity of Bubble Sort?
 #### Q: Is there any advantages of Bubble Sort?
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=Design Patterns>Design Patterns</a>
+## [[⬆]](#toc) <a name=DesignPatterns>Design Patterns</a>
 #### Q: What are the main categories of Design Patterns?
 #### Q: What is Dependency Injection?
 #### Q: What is Design Patterns and why anyone should use them?
@@ -601,7 +600,7 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: How is Bridge pattern is different from Adapter pattern?
 #### Q: What is Filter pattern?
 #### Q: When should I use composite design pattern?
-#### Q: What does â€œprogram to interfaces, not implementationsâ€ mean?
+#### Q: What does “program to interfaces, not implementations” mean?
 #### Q: When would you use the Builder Pattern? Why not just use a Factory Pattern?
 #### Q: What is Decorator pattern?
 #### Q: What is Facade pattern?
@@ -617,7 +616,7 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: Explain usage of Service Locator Pattern
 #### Q: What's the difference between the Dependency Injection and Service Locator patterns?
 #### Q: What is Mediator pattern?
-#### Q: Could you explain the difference between FaÃ§ade vs. Mediator?
+#### Q: Could you explain the difference between Façade vs. Mediator?
 #### Q: What is Observer pattern?
 #### Q: What is State pattern?
 #### Q: What is Null Object pattern?
@@ -627,13 +626,13 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: What is the difference between the template patterns and the strategy pattern?
 #### Q: Explain what is Composition over inheritance?
 #### Q: Could you explain what is the "deadly diamond of death"?
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=DevOps>DevOps</a>
+## [[⬆]](#toc) <a name=DevOps>DevOps</a>
 #### Q: What's the difference between a blue/green deployment and a rolling deployment?
 #### Q: What is the need for DevOps?
 #### Q: How is DevOps different from Agile/SDLC?
-#### Q: WhichÂ are the top DevOps tools? Which tools have you worked on?
+#### Q: Which are the top DevOps tools? Which tools have you worked on?
 #### Q: How do all DevOps tools work together?
 #### Q: What are the advantages of DevOps?
 #### Q: What is the most important thing DevOps helps us achieve?
@@ -646,9 +645,9 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: Why is Continuous monitoring necessary?
 #### Q: Explain what is DevOps ?
 #### Q: Mention what are the key aspects or principle behind DevOps?
-#### Q: How would you assess how â€œdeployableâ€ a system is?
+#### Q: How would you assess how “deployable” a system is?
 #### Q: How would you prepare for a migration from one platform to another?
-#### Q: Tell me about the worst-run/best-run outage youâ€™ve been a part of. What made it bad/well-run?
+#### Q: Tell me about the worst-run/best-run outage you’ve been a part of. What made it bad/well-run?
 #### Q: How would you make key aspects of a software system traceable?
 #### Q: How would you deploy software to 5000 nodes?
 #### Q: What is the difference between resource allocation and resource provisioning?
@@ -660,15 +659,15 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: What is Vagrant and what is it used for?
 #### Q: What is the role of a configuration management tool in DevOps?
 #### Q: Classify Cloud Platforms by category
-#### Q: What isÂ post mortem meetings?
+#### Q: What is post mortem meetings?
 #### Q: What do you know about serverless model?
 #### Q: Are you more Dev or Ops?
 #### Q: Explain a use case for Docker
 #### Q: What's the next thing you would automate in your current workflow?
 #### Q: How would you introduce Continuous Delivery in a successful, huge company for which the change from Waterfall to Continuous Delivery would be not trivial, because of the size and complexity of the business?
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=Git>Git</a>
+## [[⬆]](#toc) <a name=Git>Git</a>
 #### Q: What git command do you need to use to know who changed certain lines in a specific file?
 #### Q: What is Git?
 #### Q: What is difference between Git vs SVN?
@@ -681,7 +680,7 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: When do you use "git rebase" instead of "git merge"?
 #### Q: What is the difference between "git pull" and "git fetch"?
 #### Q: What is the "HEAD" in Git?
-#### Q: Can you explain what â€œgit resetâ€ does in plain english?
+#### Q: Can you explain what “git reset” does in plain english?
 #### Q: Could you explain the Gitflow workflow?
 #### Q: What's the difference between a "pull request" and a "branch"?
 #### Q: How does the Centralized Workflow work?
@@ -695,9 +694,9 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: How to revert previous commit in git?
 #### Q: How to undo the most recent commits in Git?
 #### Q: Do you know how to easily undo a git rebase? 
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=Golang>Golang</a>
+## [[⬆]](#toc) <a name=Golang>Golang</a>
 #### Q: What is Go?
 #### Q: What are the benefits of using Go programming?
 #### Q: What is static type declaration of a variable in Go?
@@ -717,9 +716,9 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: What kind of type conversion is supported by Go?
 #### Q: What is "rune" type in Go?
 #### Q: What is so special about constants in Go?
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=GraphQL>GraphQL</a>
+## [[⬆]](#toc) <a name=GraphQL>GraphQL</a>
 #### Q: Is GraphQL a Database Technology?
 #### Q: Is GraphQL only for React / Javascript Developers?
 #### Q: How to do Server-side Caching?
@@ -733,9 +732,9 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: Explain the main difference between REST and GraphQL
 #### Q: What is GraphQL schema?
 #### Q: What kind of operations could GraphQL schema have?
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=HTML 5>HTML 5</a>
+## [[⬆]](#toc) <a name=HTML5>HTML 5</a>
 #### Q: What were some of the key goals and motivations for the HTML5 specification?
 #### Q: Write a HTML table tag sequence that outputs the following
 #### Q: HTML Markup Validity
@@ -772,7 +771,7 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: Briefly describe the correct usage of the following HTML5 semantic elements: <header>, <article>, <section>, <footer>
 #### Q: What are `defer` and `async` attributes on a `<script>` tag?
 #### Q: What is the DOM?
-#### Q: Discuss the differences between an HTML specification and a browserâ€™s implementation thereof.
+#### Q: Discuss the differences between an HTML specification and a browser’s implementation thereof.
 #### Q: What are some differences that XHTML has compared to HTML?
 #### Q: Where and why is the `rel="noopener"` attribute used?
 #### Q: What is HTML5 Web Storage? Explain `localStorage` and `sessionStorage`.
@@ -790,12 +789,12 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: What is WebSQL?
 #### Q: What is WebP?
 #### Q: What is an IndexedDB?
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=Java>Java</a>
-#### Q: What is JVM? Why is Java called the â€œPlatform Independent Programming Languageâ€? 
+## [[⬆]](#toc) <a name=Java>Java</a>
+#### Q: What is JVM? Why is Java called the “Platform Independent Programming Language”? 
 #### Q: What is the Difference between JDK and JRE? 
-#### Q: What does the â€œstaticâ€ keyword mean? Can you override private or static method in Java?
+#### Q: What does the “static” keyword mean? Can you override private or static method in Java?
 #### Q: Can you access non static variable in static context?
 #### Q: What are the Data Types supported by Java? What is Autoboxing and Unboxing?
 #### Q: What is Function Overriding and Overloading in Java?
@@ -808,10 +807,10 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: Explain the available thread states in a high-level.
 #### Q: What is the difference between a synchronized method and a synchronized block?
 #### Q: How does thread synchronization occurs inside a monitor? What levels of synchronization can you apply? 
-#### Q: Whatâ€™s a deadlock? 
+#### Q: What’s a deadlock? 
 #### Q: How do you ensure that N threads can access N resources without deadlock? 
 #### Q: What are the basic interfaces of Java Collections Framework? 
-#### Q: Why Collection doesnâ€™t extend Cloneable and Serializable interfaces? 
+#### Q: Why Collection doesn’t extend Cloneable and Serializable interfaces? 
 #### Q: What is an Iterator? 
 #### Q: What differences exist between Iterator and ListIterator? 
 #### Q: What is difference between fail-fast and fail-safe? 
@@ -825,7 +824,7 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: What do you know about the big-O notation and can you give some examples with respect to different data structures?
 #### Q: What is the tradeoff between using an unordered array versus an ordered array? 
 #### Q: What are some of the best practices relating to the Java Collection framework?
-#### Q: Whatâ€™s the difference between Enumeration and Iterator interfaces? 
+#### Q: What’s the difference between Enumeration and Iterator interfaces? 
 #### Q: What is the difference between HashSet and TreeSet?
 #### Q:  What is the purpose of garbage collection in Java, and when is it used?
 #### Q: What does System.gc() and Runtime.gc() methods do?
@@ -856,7 +855,7 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: Which Swing methods are thread-safe?
 #### Q: What is the relationship between an event-listener interface and an event-adapter class?
 #### Q: How can a GUI component handle its own events?
-#### Q: What advantage do Javaâ€™s layout managers provide over traditional windowing systems?
+#### Q: What advantage do Java’s layout managers provide over traditional windowing systems?
 #### Q: What is the design pattern that Java uses for all Swing components?
 #### Q: What is JDBC?
 #### Q: Explain the role of Driver in JDBC. 
@@ -883,7 +882,7 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q:  What is a Server Side Include (SSI)?
 #### Q: What is Servlet Chaining?
 #### Q: How do you find out what client machine is making a request to your servlet?
-#### Q: Whatâ€™s the difference between sendRedirect and forward methods?
+#### Q: What’s the difference between sendRedirect and forward methods?
 #### Q: What is RMI?
 #### Q: What is the basic principle of RMI architecture?
 #### Q: What are the layers of RMI Architecture?
@@ -896,9 +895,9 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: What is the purpose of using RMISecurityManager in RMI?
 #### Q: Explain Marshalling and demarshalling.
 #### Q: Explain Serialization and Deserialization. 
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=JavaScript>JavaScript</a>
+## [[⬆]](#toc) <a name=JavaScript>JavaScript</a>
 #### Q: Explain Values and Types in JavaScript
 #### Q: What is Scope in JavaScript?
 #### Q: Explain equality in JavaScript
@@ -914,7 +913,7 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: What is the difference between anonymous and named functions? 
 #### Q: What is IIFEs l(Immediately Invoked Function Expressions)?
 #### Q: Describe closure concept in JavaScript as best as you could
-#### Q: How does the â€œthisâ€ keyword work? Provide some code examples.
+#### Q: How does the “this” keyword work? Provide some code examples.
 #### Q: What is the "new" keyword in JavaScript?
 #### Q: What is a Polyfill?
 #### Q: What is the difference between a shim and a polyfill?
@@ -940,7 +939,7 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: Explain the difference between "undefined" and "not defined" in JavaScript
 #### Q: What will be the output of the following code?
 #### Q: What is the drawback of creating true private in JavaScript?
-#### Q: What is â€œclosureâ€ in javascript? Provide an example?
+#### Q: What is “closure” in javascript? Provide an example?
 #### Q: Write a "mul" function which will properly when invoked as below syntax.
 #### Q: How to empty an array in JavaScript?
 #### Q: How to check if an object is an array or not? Provide some code.
@@ -963,20 +962,20 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: What will the following code output?
 #### Q: How would you create a private variable in JavaScript?
 #### Q: Check if a given string is a palindrome. Case sensitivity should be taken into account.
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=Laravel>Laravel</a>
+## [[⬆]](#toc) <a name=Laravel>Laravel</a>
 #### Q: What is the Laravel?
 #### Q: What are some benefits of Laravel over other Php frameworks?
 #### Q: Is there any CLI for Laravel?
 #### Q: What are Laravel events?
 #### Q: Explain Migrations in Laravel
 #### Q: What is the Facade Pattern used for?
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=MongoDB>MongoDB</a>
+## [[⬆]](#toc) <a name=MongoDB>MongoDB</a>
 #### Q: Explain what is MongoDB?
-#### Q: What is â€œNamespaceâ€ in MongoDB?
+#### Q: What is “Namespace” in MongoDB?
 #### Q: What do you understand by NoSQL databases? Explain.
 #### Q: What is the difference between MongoDB and MySQL?
 #### Q: What is the difference b/w MongoDB and CouchDB?
@@ -1033,16 +1032,16 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: Can one MongoDB operation lock more than one databases? If yes, how?
 #### Q: What is oplog?
 #### Q: What is splitting in mongodb?
-#### Q: Is there an â€œupsertâ€ option in the mongodb insert command?
-#### Q: How to query MongoDB with â€œlikeâ€?
+#### Q: Is there an “upsert” option in the mongodb insert command?
+#### Q: How to query MongoDB with “like”?
 #### Q: Find objects between two dates MongoDB
 #### Q: Update MongoDB field using value of another field
 #### Q: How to remove a field completely from a MongoDB document?
 #### Q: How can I combine data from multiple collections into one collection?
 #### Q: How to condense large volumes of data in Mongo?
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=Node.js>Node.js</a>
+## [[⬆]](#toc) <a name=Node.js>Node.js</a>
 #### Q: What is Node.js?
 #### Q: What do you mean by Asynchronous API?
 #### Q: What are the benefits of using Node.js?
@@ -1111,9 +1110,9 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: Provide some example of config file separation for dev and prod environments
 #### Q: How would you handle errors for async code in Node.js?
 #### Q: Rewrite the code sample without try/catch block
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=Performance Testing>Performance Testing</a>
+## [[⬆]](#toc) <a name=PerformanceTesting>Performance Testing</a>
 #### Q: How to interpret load/stress test metrics?
 #### Q: Explain some load testing metrics
 #### Q: What is the difference between load and stress testing?
@@ -1130,9 +1129,9 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: Name some performance testing mistakes
 #### Q: Could you name some common Performance Testing fallacies?
 #### Q: Name some Performance Testing best practices
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=Questions to Ask>Questions to Ask</a>
+## [[⬆]](#toc) <a name=QuestionstoAsk>Questions to Ask</a>
 #### Q: How are you funded?
 #### Q: What is the most important/valuable thing you have learnt from working here?
 #### Q: How do your clients and customers define success?
@@ -1172,9 +1171,9 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: Are you profitable? If no, what's your plan for becoming profitable?
 #### Q: How long does the average engineer stay at the company?
 #### Q: Why have the last few people left?
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=REST API>REST API</a>
+## [[⬆]](#toc) <a name=RESTAPI>REST API</a>
 #### Q: What is RESTful Web Services?
 #### Q: What are the advantages of Web Services?
 #### Q: What are different types of Web Services?
@@ -1242,11 +1241,11 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: What are the various approaches available for developing SOAP based web services?
 #### Q: What is Open API Initiative?
 #### Q: Name some best practices for better RESTful API design
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=React>React</a>
+## [[⬆]](#toc) <a name=React>React</a>
 #### Q: What happens when you call "setState"?
-#### Q: Whatâ€™s the difference between an "Element" and a "Component" in React?
+#### Q: What’s the difference between an "Element" and a "Component" in React?
 #### Q: How does React work?
 #### Q: What are the advantages of using React?
 #### Q: What is the difference between a Presentational component and a Container component?
@@ -1329,9 +1328,9 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: What is mapStateToProps and mapDispatchToProps?
 #### Q: What is Flux?
 #### Q: What is React Fiber?
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=Ruby>Ruby</a>
+## [[⬆]](#toc) <a name=Ruby>Ruby</a>
 #### Q: What is the highest level in the object model?
 #### Q: Is everything in Ruby an object?  
 #### Q: Which core object includes the "Kernel" module?  
@@ -1382,7 +1381,7 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: What is the difference between `BasicObject#instance_eval` and `BasicObject#instance_exec`?
 #### Q: What is the difference between `Kernel#require` and `Kernel#load`?  
 #### Q: Check if a value exists in an array in Ruby
-#### Q: Is there an equivalent of â€œcontinueâ€ in Ruby?
+#### Q: Is there an equivalent of “continue” in Ruby?
 #### Q: What are rubygems?
 #### Q: What is a class?
 #### Q: What is an object?
@@ -1416,9 +1415,9 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: What is the difference between nil and false in Ruby?
 #### Q: Explain redo statement in Ruby
 #### Q: Explain redo vs. retry usage
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=Sass>Sass</a>
+## [[⬆]](#toc) <a name=Sass>Sass</a>
 #### Q: What is Sass?
 #### Q: What's the difference between SCSS and Sass?
 #### Q: List out the key features for Sass?
@@ -1426,14 +1425,14 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: List out the data types that Sass supports
 #### Q: How to use variables in Sass?
 #### Q: What Selector Nesting in Sass is used for?
-#### Q: Whatâ€™s wrong with Sass nesting? Provide some example.
+#### Q: What’s wrong with Sass nesting? Provide some example.
 #### Q: What is a Mixin and how to use on?
 #### Q: What will be the CSS output for the following Sass code?
 #### Q: What is the '@content' directive used for?
 #### Q: Explain what is a @extend directive used for in Sass?
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=Scrum>Scrum</a>
+## [[⬆]](#toc) <a name=Scrum>Scrum</a>
 #### Q: What is Scrum?
 #### Q: What is sprint in Scrum?
 #### Q: Name some types of meetings or ceremonies in Scrum
@@ -1452,15 +1451,15 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: Provide some examples of burn-up chart
 #### Q: What are the benefits of Burn Up chart?
 #### Q: Have you ever used Scrum Task Board?
-#### Q: Mention in detail what are the roleâ€™s of Scrum Master?
+#### Q: Mention in detail what are the role’s of Scrum Master?
 #### Q: Explain what is Scrum ban?
 #### Q: Mention the key difference between sprint backlog and product backlog?
 #### Q: Explain how you can measure the velocity of the sprint with varying team capacity?
 #### Q: What is an epic, user stories and task?
 #### Q: Explain the difference between Extreme programming and Scrum?
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=Software Architecture>Software Architecture</a>
+## [[⬆]](#toc) <a name=SoftwareArchitecture>Software Architecture</a>
 #### Q: What Do You Mean By High Availability?
 #### Q: What Is Scalability?
 #### Q: What Is A Cluster?
@@ -1489,13 +1488,13 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: Defend the monolithic architecture.
 #### Q: "People who like this also like... ". How would you implement this feature in an e-commerce shop?
 #### Q: Explain threads to your grandparents
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=TypeScript>TypeScript</a>
+## [[⬆]](#toc) <a name=TypeScript>TypeScript</a>
 #### Q: What are the difference beetween Typescript and JavaScript?
 #### Q: List the built-in types in Typescript
 #### Q: What are Modules in Typescript?
-#### Q: â€ŠWhat is Typescript and why one should use it?
+#### Q:  What is Typescript and why one should use it?
 #### Q: What is Interface in TypeScript?
 #### Q: When to use interfaces and when to use classes in TypeScript?
 #### Q: What is the difference between Classes and Interfaces in Typescript?
@@ -1531,11 +1530,11 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: Explain when to use "declare" keyword in TypeScript
 #### Q: What are Ambients in TypeScripts and when to use them?
 #### Q: Is it possible to generate TypeScript declaration files from JS library?
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=UX Design>UX Design</a>
+## [[⬆]](#toc) <a name=UXDesign>UX Design</a>
 #### Q: What is Industrial Design?
-#### Q: Is UX design UI design? Whatâ€™s the difference?
+#### Q: Is UX design UI design? What’s the difference?
 #### Q: What does the term "design-thinking" mean to you?
 #### Q: What is User Centered Design?
 #### Q: What is User Research?
@@ -1547,9 +1546,9 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: Name a main difference Between UX And UI Design
 #### Q: Name some goals of UX Design
 #### Q: Name some basic design elemnts
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=Vue.js>Vue.js</a>
+## [[⬆]](#toc) <a name=Vue.js>Vue.js</a>
 #### Q: List some features of Vue.js
 #### Q: What is Vue.js?
 #### Q: How to create an instance of Vue js
@@ -1561,9 +1560,9 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: What are Components in Vue.js?
 #### Q: What are Directives in Vue.js, List some of them you used?
 #### Q: List type of Directive are available in Vue.js.
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=Web Security>Web Security</a>
+## [[⬆]](#toc) <a name=WebSecurity>Web Security</a>
 #### Q: What is impersonation?
 #### Q: What is the difference between Authentication vs Authorization?
 #### Q: What is SQL injection?
@@ -1578,7 +1577,7 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: What is a botnet?
 #### Q: What is a Honeypot?
 #### Q: What is Security Testing?
-#### Q: What is â€œVulnerabilityâ€?
+#### Q: What is “Vulnerability”?
 #### Q: What is Intrusion Detection System (IDS)?
 #### Q: What is the difference between IDS and firewalls?
 #### Q: List the attributes of Security Testing
@@ -1622,9 +1621,9 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: What is PKI?
 #### Q: Name the elements of PKI
 #### Q: How does SSL/TLS work ?
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-## [[â¬†]](#toc) <a name=Webpack>Webpack</a>
+## [[⬆]](#toc) <a name=Webpack>Webpack</a>
 #### Q: What is webpack?
 #### Q: Why and when should I Use Webpack?
 #### Q: Webpack gives us a dependency graph. What does that mean?
@@ -1657,5 +1656,4 @@ Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</
 #### Q: Is it possible to use other languages (except javascript) for the webpack config file?
 #### Q: Describe tree shaking mechanism in webpack
 #### Q: Describe the webpack runtime and manifest
-Get all answers ðŸ‘‰ <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
-
+Get all answers 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
