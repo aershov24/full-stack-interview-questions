@@ -1,4 +1,4 @@
-1001 (actually more than ~1500) Full Stack Interview Questions And Answers sourced from all around the Internet to help you to prepare to an interview, conduct one, mock your lead dev or completely ignore. Answers provided for Junior and Middle-Level questions. All answers available on [FullStack.Cafe](https://www.fullstack.cafe).
+> All answers available on [FullStack.Cafe](https://www.fullstack.cafe).
 
 ## <a name='toc'>Table of Contents</a>
  * [ASP.NET](#ASP.NET)
