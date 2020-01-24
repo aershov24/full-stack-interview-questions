@@ -1,4 +1,4 @@
-> All answers available on [FullStack.Cafe](https://www.fullstack.cafe).
+> All answers available on [FullStack.Cafe - Never Fail Your Tech Interview Again](https://www.fullstack.cafe).
 
 ![FullStack.Cafe - Never Fail Tech Interview Again](https://res.cloudinary.com/practicaldev/image/fetch/s--259A-mLl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ph-files.imgix.net/0c516582-13f4-4d81-bf11-39ea2913f616%3Fauto%3Dformat%26auto%3Dcompress%26codec%3Dmozjpeg%26cs%3Dstrip%26w%3D640.5985037406484%26h%3D380%26fit%3Dmax%26dpr%3D2 "FullStack.Cafe - Never Fail Tech Interview Again")
 
