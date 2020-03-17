@@ -3,7 +3,7 @@
 > All ~3700 Answers available on [FullStack.Cafe - Never Fail Your Tech Interview Again](https://www.fullstack.cafe).
 
 <p align="center">
-  <a href="https://www.fullstack.cafe">
+  <a href="https://www.fullstack.cafe/?promocode=GITHUB">
   <img src="https://user-images.githubusercontent.com/13550565/76865667-04a0f400-689e-11ea-8500-1bd60f5014ce.png">
   </a>
 </p>
