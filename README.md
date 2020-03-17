@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.fullstack.cafe">
-  <img src="https://user-images.githubusercontent.com/13550565/76865677-08cd1180-689e-11ea-910e-d4b1e6170018.png">
+  <img src="https://user-images.githubusercontent.com/13550565/76865667-04a0f400-689e-11ea-8500-1bd60f5014ce.png">
   </a>
 </p>
 
