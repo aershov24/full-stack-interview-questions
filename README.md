@@ -1,6 +1,6 @@
-# Full Stack Interview Questions and Answers from [FullStack.Cafe](https://www.fullstack.cafe)
+# 3700 Tech Interview Questions and Answers from [FullStack.Cafe](https://www.fullstack.cafe)
 
-> All ~3400 answers available on [FullStack.Cafe - Never Fail Your Tech Interview Again](https://www.fullstack.cafe).
+> All ~3700 Answers available on [FullStack.Cafe - Never Fail Your Tech Interview Again](https://www.fullstack.cafe).
 
 <p align="center">
   <a href="https://www.fullstack.cafe">
