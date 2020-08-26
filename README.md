@@ -1,8 +1,10 @@
 # 3700 Full-Stack Coding Interview Questions (ANSWERED) To Land Your Next Six-Figure Job Offer from [FullStack.Cafe](https://www.fullstack.cafe)
 
-[FullStack.Cafe](https://www.fullstack.cafe) is a biggest hand-picked collection of top coding interview questions for junior and experienced full-stack and web developers with more that 3700 tech interview questions and answers. Prepare for your next tech interview and land 6-figure job offer in no time.
+> Looking for **Coding and Programming Interview Questions**? Check [CodeStack.Cafe](https://www.codestack.cafe)! Our brand new hand-picked collection of Coding Interview Questions, Problems, Challenges & Algorithms To Get Your Next Six-Figure Job Offer!
 
-> 🥳🧨🖖 All ~3700 Answers available on [FullStack.Cafe - Never Fail Your Tech Interview Again](https://www.fullstack.cafe).
+[FullStack.Cafe](https://www.fullstack.cafe) is a biggest hand-picked collection of top technical interview questions for junior and experienced full-stack and web developers with more that 3700 tech interview questions and answers. Prepare for your next tech interview and land 6-figure job offer in no time.
+
+🥳🧨🖖 All ~3700 Answers available on [FullStack.Cafe - Never Fail Your Tech Interview Again](https://www.fullstack.cafe).
 
 <p align="center">
   <a href="https://www.fullstack.cafe/?promocode=GITHUB">
