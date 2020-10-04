@@ -1,7 +1,5 @@
 # 3700 Full-Stack Coding Interview Questions (ANSWERED) To Land Your Next Six-Figure Job Offer from [FullStack.Cafe](https://www.fullstack.cafe)
 
-> ⚠️⚠️⚠️ Looking for **Coding and Data Structures Interview Questions**? Check **<a href="https://www.codestack.cafe?utm_source=git&utm_medium=fsiq" target="_blank">CodeStack.Cafe - Our brand new cherry-picked collection of Coding Interview Questions, Problems, Challenges & Algorithms</a>**! Prepare for Google, Facebook, Amazon interview in 2 weeks (and not in 6 months).
-
 [FullStack.Cafe](https://www.fullstack.cafe) is a biggest hand-picked collection of top technical interview questions for junior and experienced full-stack and web developers with more that 3700 tech interview questions and answers. Prepare for your next tech interview and land 6-figure job offer in no time.
 
 🥳🧨🖖 All ~3700 Answers available on [FullStack.Cafe - Never Fail Your Tech Interview Again](https://www.fullstack.cafe).
