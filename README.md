@@ -1,14 +1,19 @@
-# 3700 Full-Stack Coding Interview Questions (ANSWERED) To Land Your Next Six-Figure Job Offer from [FullStack.Cafe](https://www.fullstack.cafe)
+# 3877 Full-Stack, Coding and System Design Interview Questions (ANSWERED) To Land Your Next Six-Figure Job Offer from [FullStack.Cafe](https://www.fullstack.cafe)
 
 [FullStack.Cafe](https://www.fullstack.cafe) is a biggest hand-picked collection of top technical interview questions for junior and experienced full-stack and web developers with more that 3700 tech interview questions and answers. Prepare for your next tech interview and land 6-figure job offer in no time.
 
-🥳🧨🖖 All ~3700 Answers available on [FullStack.Cafe - Never Fail Your Tech Interview Again](https://www.fullstack.cafe).
+---
+<!--🥳🧨🖖 All ~3700 Answers available on [FullStack.Cafe - Never Fail Your Tech Interview Again](https://www.fullstack.cafe).-->
 
-<p align="center">
+🔴👨‍💻[FullStack.Café + BLKFRD 50% OFF DEAL] - Kill Your Tech & Coding Interview 🪓. 3877 Full-Stack, Coding and System Design Interview Questions (ANSWERED and SOLVED). Get 50% OFF for LIFETIME Access Now only this BLKFRD. Use BLKFRD promo and Get Your Next Six-Figure Job Offer 💰💰💰 or use that link:
+
+[>> Get 50% OFF for LIFETIME Now!](https://www.fullstack.cafe/?promocode=BLKFRD&utm_source=github&utm_medium=fsiq)
+
+<!--<p align="center">
   <a href="https://www.fullstack.cafe/?promocode=GITHUB">
   <img src="https://user-images.githubusercontent.com/13550565/76865667-04a0f400-689e-11ea-8500-1bd60f5014ce.png">
   </a>
-</p>
+</p>-->
 
 ## <a name='toc'>Table of Contents</a>
  * [.NET Core](#.NETCore)
