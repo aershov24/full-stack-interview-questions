@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.fullstack.cafe/?promocode=KILLITNOW&utm_source=github&utm_medium=fsiq">
-  <img src="https://user-images.githubusercontent.com/13550565/95430969-199abd00-097f-11eb-9f62-5a6a14cf877f.png">
+  <img src="https://user-images.githubusercontent.com/13550565/96958623-a1acc500-1530-11eb-92b7-6f1508e630d9.png">
   </a>
 </p>
 
