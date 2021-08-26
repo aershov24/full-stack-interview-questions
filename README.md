@@ -2,8 +2,15 @@
 
 [FullStack.Cafe](https://www.fullstack.cafe) is a biggest hand-picked collection of top technical interview questions for junior and experienced full-stack and web developers with more that 3877 tech interview questions and answers. Prepare for your next tech interview and land 6-figure job offer in no time.
 
+🔴  Get All 3877 Answers on [FullStack.Cafe - Kill Your Tech & Coding Interview](https://www.fullstack.cafe/?utm_source=github&utm_medium=fsiq)
+
 ---
-🥳🧨🖖 All 3877 Answers available on [FullStack.Cafe - Never Fail Your Tech Interview Again](https://www.fullstack.cafe/?utm_source=github&utm_medium=fsiq).
+
+## Machine Learning & Data Science Interview Questions 🤖🤖🤖
+
+👉 For 1299 ML & DataScience Interview Questions Check  [MLStack.Cafe - Kill Your Machine Learning, Data Science & Python Interview](https://www.mlstack.cafe/?utm_source=github&utm_medium=fsiq)
+
+---
 
 <!-- 🔴👨‍💻[FullStack.Café + BLKFRD 50% OFF DEAL] - Kill Your Tech & Coding Interview 🪓. 3877 Full-Stack, Coding and System Design Interview Questions (ANSWERED and SOLVED). Get 50% OFF for LIFETIME Access Now only this BLKFRD. Use BLKFRD promo and Get Your Next Six-Figure Job Offer 💰💰💰 or use that link: 
 [>> Get 50% OFF for LIFETIME Now!](https://www.fullstack.cafe/?promocode=BLKFRD&utm_source=github&utm_medium=fsiq) -->
